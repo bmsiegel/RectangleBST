@@ -1,0 +1,16 @@
+dump
+
+insert Reid 1 0 2 4
+
+	insert Jog 4 3 6 1
+
+insert Zach 2 5     123 6
+
+insert Yes 10 25 145 456
+insert Kill 10 25 145 456
+insert Bunk 10 25 145 456
+
+remove Reid
+remove Reid
+
+dump
